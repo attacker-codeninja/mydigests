@@ -1,0 +1,15 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.cursorStyle": "block",
+  "editor.wordWrap": "on",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "rust.all_features": true,
+  "json.maxItemsComputed": 50000,
+  "git.enableCommitSigning": true,
+  "gitHistory.alwaysPromptRepositoryPicker": true,
+  "gitHistory.editorTitleButtonOpenRepo": true,
+  "gitHistory.includeRemoteBranches": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2
+}

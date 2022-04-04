@@ -1,0 +1,5 @@
+.secrets/
+Learning-Rust/**/target
+Learning-Rust/**/.DS_Store
+Learning_Javascrip/**/.DS_Store
+**/.DS_Store
